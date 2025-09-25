@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "animeName": "Naruto Shippuden",
+    "characterName": "Naruto Uzumaki",
+    "description": "The hyperactive ninja with dreams of becoming Hokage. Known for his Nine-Tails chakra and never-give-up attitude, Naruto fights to protect his village and friends.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2007",
+    "genres": ["Action", "Adventure", "Martial Arts", "Shounen"],
+    "rating": 9.0
+  },
+  {
+    "id": 2,
+    "animeName": "Jujutsu Kaisen",
+    "characterName": "Yuji Itadori",
+    "description": "A high school student who becomes the vessel for the powerful curse Sukuna. Despite harboring evil within, Yuji maintains his compassionate nature and fights to save others.",
+    "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2020",
+    "genres": ["Action", "Supernatural", "Shounen", "School"],
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "animeName": "One Piece",
+    "characterName": "Monkey D. Luffy",
+    "description": "The rubber-powered captain of the Straw Hat Pirates with dreams of finding the One Piece treasure. His infectious optimism and determination inspire his crew on their grand adventure.",
+    "image": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "1999",
+    "genres": ["Action", "Adventure", "Comedy", "Shounen"],
+    "rating": 9.1
+  },
+  {
+    "id": 4,
+    "animeName": "Demon Slayer",
+    "characterName": "Tanjiro Kamado",
+    "description": "A kind-hearted demon slayer seeking to cure his sister Nezuko and avenge his family. Master of Water Breathing technique with an exceptional sense of smell.",
+    "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2019",
+    "genres": ["Action", "Supernatural", "Historical", "Shounen"],
+    "rating": 8.9
+  },
+  {
+    "id": 5,
+    "animeName": "Attack on Titan",
+    "characterName": "Eren Yeager",
+    "description": "A young soldier driven by revenge against the Titans who destroyed his hometown. Possesses the power of the Attack Titan and harbors dark secrets about the world.",
+    "image": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2013",
+    "genres": ["Action", "Drama", "Military", "Shounen"],
+    "rating": 9.3
+  },
+  {
+    "id": 6,
+    "animeName": "My Hero Academia",
+    "characterName": "Izuku Midoriya",
+    "description": "A quirkless boy who inherits the powerful One For All quirk from his idol All Might. Despite being born powerless, his heroic spirit drives him to become the greatest hero.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2016",
+    "genres": ["Action", "Superhero", "School", "Shounen"],
+    "rating": 8.8
+  },
+  {
+    "id": 7,
+    "animeName": "Dragon Ball Z",
+    "characterName": "Son Goku",
+    "description": "The legendary Saiyan warrior who protects Earth from powerful threats. Known for his incredible fighting abilities and pure-hearted nature that turns enemies into allies.",
+    "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "1989",
+    "genres": ["Action", "Adventure", "Martial Arts", "Shounen"],
+    "rating": 8.7
+  },
+  {
+    "id": 8,
+    "animeName": "Death Note",
+    "characterName": "Light Yagami",
+    "description": "A brilliant high school student who discovers a supernatural notebook that kills anyone whose name is written in it. His quest for justice leads him down a dark path of moral corruption.",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2006",
+    "genres": ["Psychological", "Thriller", "Supernatural", "Shounen"],
+    "rating": 9.0
+  },
+  {
+    "id": 9,
+    "animeName": "One Punch Man",
+    "characterName": "Saitama",
+    "description": "A superhero who can defeat any enemy with a single punch, leading to existential boredom. Despite his overwhelming power, he struggles with mundane problems and lack of recognition.",
+    "image": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2015",
+    "genres": ["Action", "Comedy", "Superhero", "Seinen"],
+    "rating": 8.9
+  },
+  {
+    "id": 10,
+    "animeName": "Hunter x Hunter",
+    "characterName": "Gon Freecss",
+    "description": "A young boy searching for his father who left him to become a Hunter. Possesses incredible potential and an unwavering determination to achieve his goals.",
+    "image": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2011",
+    "genres": ["Action", "Adventure", "Fantasy", "Shounen"],
+    "rating": 9.1
+  },
+  {
+    "id": 11,
+    "animeName": "Fullmetal Alchemist: Brotherhood",
+    "characterName": "Edward Elric",
+    "description": "A young alchemist searching for the Philosopher's Stone to restore his and his brother's bodies after a failed alchemical experiment. Known as the Fullmetal Alchemist.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2009",
+    "genres": ["Action", "Adventure", "Drama", "Shounen"],
+    "rating": 9.5
+  },
+  {
+    "id": 12,
+    "animeName": "Tokyo Ghoul",
+    "characterName": "Ken Kaneki",
+    "description": "A college student who becomes a half-ghoul after a near-fatal encounter. Struggles to maintain his humanity while adapting to his new ghoul nature and the dark world he's entered.",
+    "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2014",
+    "genres": ["Action", "Horror", "Supernatural", "Seinen"],
+    "rating": 8.4
+  },
+  {
+    "id": 13,
+    "animeName": "Bleach",
+    "characterName": "Ichigo Kurosaki",
+    "description": "A high school student who gains Soul Reaper powers and protects the living world from evil spirits called Hollows. Wields the powerful Zangetsu sword.",
+    "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2004",
+    "genres": ["Action", "Supernatural", "Shounen"],
+    "rating": 8.6
+  },
+  {
+    "id": 14,
+    "animeName": "Mob Psycho 100",
+    "characterName": "Shigeo Kageyama",
+    "description": "A middle school boy with powerful psychic abilities who tries to live a normal life. Known as 'Mob,' he struggles to control his emotions and overwhelming psychic powers.",
+    "image": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2016",
+    "genres": ["Action", "Comedy", "Supernatural", "Shounen"],
+    "rating": 8.8
+  },
+  {
+    "id": 15,
+    "animeName": "Spirited Away",
+    "characterName": "Chihiro Ogino",
+    "description": "A young girl trapped in a magical spirit world who must work at a bathhouse to save her parents. Shows incredible courage and growth throughout her supernatural adventure.",
+    "image": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2001",
+    "genres": ["Adventure", "Family", "Fantasy", "Movie"],
+    "rating": 9.4
+  },
+  {
+    "id": 16,
+    "animeName": "Chainsaw Man",
+    "characterName": "Denji",
+    "description": "A young man who merges with his pet devil Pochita to become Chainsaw Man. Fights devils while dealing with poverty, simple desires, and complex relationships.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2022",
+    "genres": ["Action", "Horror", "Supernatural", "Shounen"],
+    "rating": 8.7
+  },
+  {
+    "id": 17,
+    "animeName": "Spy x Family",
+    "characterName": "Loid Forger",
+    "description": "A master spy who creates a fake family for his mission, unaware that his wife is an assassin and his daughter is a telepath. Code name: Twilight.",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2022",
+    "genres": ["Action", "Comedy", "Family", "Shounen"],
+    "rating": 8.9
+  },
+  {
+    "id": 18,
+    "animeName": "Your Name",
+    "characterName": "Taki Tachibana",
+    "description": "A high school boy in Tokyo who mysteriously begins swapping bodies with a rural girl named Mitsuha. Their connection transcends time and space in this romantic tale.",
+    "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2016",
+    "genres": ["Romance", "Drama", "Fantasy", "Movie"],
+    "rating": 8.4
+  },
+  {
+    "id": 19,
+    "animeName": "JoJo's Bizarre Adventure",
+    "characterName": "Jotaro Kujo",
+    "description": "A stoic high school student with the powerful Stand 'Star Platinum.' Known for his iconic catchphrase 'Yare yare daze' and his quest to save his mother from a curse.",
+    "image": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2012",
+    "genres": ["Action", "Adventure", "Bizarre", "Shounen"],
+    "rating": 8.8
+  },
+  {
+    "id": 20,
+    "animeName": "Princess Mononoke",
+    "characterName": "San",
+    "description": "A fierce warrior raised by wolves who fights to protect the forest from human destruction. Known as Princess Mononoke, she embodies the spirit of nature's resistance.",
+    "image": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "1997",
+    "genres": ["Adventure", "Fantasy", "Environmental", "Movie"],
+    "rating": 8.9
+  },
+  {
+    "id": 21,
+    "animeName": "Cowboy Bebop",
+    "characterName": "Spike Spiegel",
+    "description": "A laid-back bounty hunter aboard the spaceship Bebop with a mysterious past involving the Red Dragon Crime Syndicate. Master of Jeet Kune Do martial arts.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "1998",
+    "genres": ["Action", "Space", "Noir", "Seinen"],
+    "rating": 8.9
+  },
+  {
+    "id": 22,
+    "animeName": "Violet Evergarden",
+    "characterName": "Violet Evergarden",
+    "description": "A former child soldier learning to understand emotions and human connection through her work as an Auto Memory Doll, writing letters for others.",
+    "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2018",
+    "genres": ["Drama", "Romance", "Military", "Seinen"],
+    "rating": 8.6
+  },
+  {
+    "id": 23,
+    "animeName": "Code Geass",
+    "characterName": "Lelouch Lamperouge",
+    "description": "An exiled prince who gains the power of Geass and leads a rebellion against the Holy Britannian Empire. A brilliant strategist with a complex moral compass.",
+    "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "2006",
+    "genres": ["Mecha", "Military", "Drama", "Shounen"],
+    "rating": 9.0
+  },
+  {
+    "id": 24,
+    "animeName": "Akira",
+    "characterName": "Kaneda Shotaro",
+    "description": "The leader of a biker gang in Neo-Tokyo who becomes involved in a government conspiracy involving psychic powers. A loyal friend fighting to save his childhood companion Tetsuo.",
+    "image": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=500&fit=crop&auto=format&q=80",
+    "releaseYear": "1988",
+    "genres": ["Action", "Cyberpunk", "Thriller", "Movie"],
+    "rating": 8.8
+  }
+]
