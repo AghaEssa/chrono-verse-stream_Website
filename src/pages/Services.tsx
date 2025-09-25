@@ -6,52 +6,76 @@ import { Search, Filter } from 'lucide-react';
 const Services = () => {
   const animeList = [
     {
-      title: "Ghost in the Shell: Arise",
-      description: "In a future where cybernetic enhancements are commonplace, Major Motoko Kusanagi leads Section 9 in investigating cybercrimes.",
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
+      title: "Ghost in the Shell: SAC_2045",
+      description: "Major Motoko Kusanagi and Section 9 return in this 3D animated series, investigating cyber-terrorism in a post-human world. Features cutting-edge AI threats and philosophical questions about consciousness and identity in the digital age.",
+      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&auto=format&q=80",
       rating: 8.9,
       year: "2024",
       genre: ["Action", "Sci-Fi", "Cyberpunk"]
     },
     {
-      title: "Neon Genesis: Revival",
-      description: "Humanity's last hope lies in young pilots who must synchronize with bio-mechanical units to fight mysterious entities.",
-      image: "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=300&fit=crop",
+      title: "Evangelion: 4.0+1.0",
+      description: "The final chapter of the Rebuild series. Shinji Ikari faces his ultimate destiny as humanity's fate hangs in the balance. Features stunning mecha battles and deep psychological exploration of its characters' trauma and growth.",
+      image: "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=300&fit=crop&auto=format&q=80",
       rating: 9.2,
       year: "2024",
       genre: ["Mecha", "Drama", "Psychological"]
     },
     {
-      title: "Akira: Neo Tokyo",
-      description: "In post-apocalyptic Neo-Tokyo, a biker gang member gains psychic powers that threaten to destroy the city.",
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
-      rating: 8.7,
-      year: "2023",
+      title: "Akira: Revival",
+      description: "A stunning remake of the legendary cyberpunk masterpiece. Neo-Tokyo burns as Kaneda races to save his friend Tetsuo from psychic powers beyond human comprehension. Revolutionary animation meets timeless storytelling.",
+      image: "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=300&fit=crop&auto=format&q=80",
+      rating: 9.5,
+      year: "2024",
       genre: ["Action", "Thriller", "Cyberpunk"]
     },
     {
-      title: "Blade Runner: Anime",
-      description: "In a dystopian future, synthetic humans seek their humanity while being hunted by special police operatives.",
-      image: "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=300&fit=crop",
+      title: "Blade Runner: Black Lotus",
+      description: "Set in 2032 Los Angeles, this anime series follows Elle, a replicant with mysterious memories, as she unravels a conspiracy involving the Tyrell Corporation. Features noir aesthetics with futuristic cyberpunk elements.",
+      image: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop&auto=format&q=80",
       rating: 8.5,
       year: "2023",
       genre: ["Sci-Fi", "Noir", "Drama"]
     },
     {
-      title: "Cyberpunk Legends",
-      description: "Street mercenaries navigate a world of corporate warfare and technological enhancement in Night City.",
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
-      rating: 8.8,
+      title: "Cyberpunk: Edgerunners",
+      description: "A standalone story set in the Cyberpunk 2077 universe. Follow David Martinez as he becomes an edgerunner in Night City, navigating corporate warfare, cybernetic enhancement, and the thin line between humanity and technology.",
+      image: "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=400&h=300&fit=crop&auto=format&q=80",
+      rating: 9.1,
       year: "2024",
       genre: ["Action", "Cyberpunk", "Adventure"]
     },
     {
-      title: "Neural Network",
-      description: "A hacker discovers a conspiracy that threatens the boundary between virtual reality and the real world.",
-      image: "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=300&fit=crop",
-      rating: 8.3,
-      year: "2023",
+      title: "Serial Experiments Lain",
+      description: "A mind-bending exploration of identity and reality in the digital age. Lain Iwakura discovers the blurred boundaries between the physical world and the Wired, questioning the nature of existence and consciousness itself.",
+      image: "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=400&h=300&fit=crop&auto=format&q=80",
+      rating: 8.8,
+      year: "2024",
       genre: ["Thriller", "Sci-Fi", "Mystery"]
+    },
+    {
+      title: "Attack on Titan: Final Season",
+      description: "The epic conclusion to humanity's fight for survival. Eren Yeager's ultimate plan unfolds as the Survey Corps faces their greatest challenge yet. Features massive titan battles and shocking revelations about the world's true nature.",
+      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&auto=format&q=80",
+      rating: 9.0,
+      year: "2023",
+      genre: ["Action", "Drama", "Military"]
+    },
+    {
+      title: "Demon Slayer: Infinity Castle",
+      description: "Tanjiro and the Demon Slayer Corps infiltrate Muzan's fortress for the final battle. Features breathtaking sword combat, emotional character arcs, and the stunning animation that made the series a global phenomenon.",
+      image: "https://images.unsplash.com/photo-1596727147705-61a532a659bd?w=400&h=300&fit=crop&auto=format&q=80",
+      rating: 8.7,
+      year: "2024",
+      genre: ["Action", "Supernatural", "Historical"]
+    },
+    {
+      title: "Jujutsu Kaisen: Shibuya Incident",
+      description: "The most intense arc of the series comes to life as Yuji Itadori and fellow sorcerers face off against powerful curses in a battle that will reshape the jujutsu world forever. Dark, visceral, and emotionally devastating.",
+      image: "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=400&h=300&fit=crop&auto=format&q=80",
+      rating: 9.3,
+      year: "2024",
+      genre: ["Action", "Supernatural", "School"]
     }
   ];
 
